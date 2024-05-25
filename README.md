@@ -54,3 +54,6 @@
         - Menos curtidos
         - Por estudantes
         - Por professores
+
+### **Protótipo**
+[Link Protótipo no Figma](https://www.figma.com/design/LRJEohkqMcZWlYRTL0JUra/Wiki-Marista?node-id=0-1&t=RBpzwxdQyPSeI0bD-1)
