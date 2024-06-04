@@ -1,8 +1,8 @@
 | Título | Descrição |
 | ------ | --------- |
 | 📂 Nome | Marista Wiki |
-| ⏱ Data Início | 25/05/2024 |
-| ⏱ Data desejada Final | 01/07/2024 |
+| ⏱ Data Início |  |
+| ⏱ Data desejada Final |  |
 | 🙋‍♂️ Autor | Vitor Gabriel de Oliveira |
 | ✨ Objetivo | Criar cultura de compartilhamento de conhecimento entre os alunos das Escola Social Marista Ir. Acácio. |
 
